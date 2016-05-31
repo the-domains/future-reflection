@@ -1,0 +1,14 @@
+layout_spectrum: 0.9514579384122044
+typography_spectrum: 0.8158540003933012
+color:
+  brandStrength: 0.8871591561473906
+  lightness: 0.4667608439922333
+  saturation: 0.7663810281082988
+  rhythmicContrast: 0.8278434963431209
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: future reflection
